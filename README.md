@@ -1,5 +1,7 @@
 # air-quality-checker
 
+[![Codacy Badge](https://api.codacy.com/project/badge/Grade/2b3d73264f7145839f98f37ec411e9ae)](https://app.codacy.com/gh/sse054432/t3?utm_source=github.com&utm_medium=referral&utm_content=sse054432/t3&utm_campaign=Badge_Grade)
+
 This repository pretends to give a firendly interface to interact with  air quality stations data.
 
 Feel free to __collaborate__, fork or use it for your own projects.
